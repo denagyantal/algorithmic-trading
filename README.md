@@ -6,7 +6,7 @@ GOAL:
 
 
 QA:
-- buy and hold strategy vs super large hedge founds, with pro quants
+buy and hold strategy vs super large hedge founds, with pro quants.
 Is there a middle ground where I can do more with my trading app?
 
 Is my time invest in it worth it? (besides the learning)
@@ -15,6 +15,6 @@ What if i just simplify this and try to build something which a helper for buy a
 -> maybe if I want to be a quant is it worth it, Do I?
 
 
-1. How to decide if it is bull or bear?
+How to decide if it is bull or bear?
  - it sends me an sms that the market reached the bull period, so it is worth to buy something
  https://bullbeartracker.com/about-bull-bear-tracker
